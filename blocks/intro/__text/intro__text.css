@@ -1,0 +1,41 @@
+.intro__text {
+  color: #fff;
+  font-weight: normal;
+  max-width: calc(100% - 46.1%);
+  margin: 0 auto 34px 11.56%;
+  font-size: 16px;
+  line-height: 163%;
+}
+
+@media screen and (max-width: 1024px) {
+  .intro__text {
+    max-width: calc(100% - 32.61%);
+    margin: 0 auto 34px 4.68%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro__text {
+    max-width: calc(100% - 6.25%);
+    margin: 0 auto 34px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .intro__text {
+    margin: 0 auto 34px 4.68%;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .intro__text {
+    max-width: calc(100% - 8.53%);
+    margin: 0 auto 34px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro__text {
+    max-width: calc(100% - 10%);
+  }
+}

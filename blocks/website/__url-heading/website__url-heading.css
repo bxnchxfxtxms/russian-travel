@@ -1,0 +1,24 @@
+.website__url-heading {
+  margin: 0;
+  color: #aaa;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 12px;
+  margin: 0 0 12px 0;
+  line-height: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .website__url-heading {
+    line-height: 100%;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .website__url-heading {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
+}

@@ -1,0 +1,51 @@
+.lead__caption {
+  color: #fff;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 140%;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  margin: 8px auto 92px 11.56%;
+}
+
+@media screen and (max-width: 1280px) {
+  .lead__caption {
+    margin: 8px auto 92px 11.56%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__caption {
+    margin: 8px auto 92px 4.68%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__caption {
+    margin: 8px auto 92px 4.68%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__caption {
+    margin: 8px auto 88px 3.125%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .lead__caption {
+    margin: 8px auto 64px 3.30%;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .lead__caption {
+    margin: 8px auto 64px 3.73%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__caption {
+    margin: 8px auto 64px 5%;
+  }
+}

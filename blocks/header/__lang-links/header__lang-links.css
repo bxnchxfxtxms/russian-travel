@@ -1,0 +1,9 @@
+.header__lang-links {
+  margin: 46px 46px auto auto;
+}
+
+@media screen and (max-width: 500px) {
+  .header__lang-links {
+    margin: 30px 5% auto auto;
+  }
+}

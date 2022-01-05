@@ -1,0 +1,19 @@
+.website__link {
+  color: #fff;
+  font-size: 18px;
+  line-height: 122%;
+  text-decoration: underline;
+  opacity: 1;
+  transition: .2s ease-out;
+}
+
+@media screen and (max-width: 500px) {
+  .website__link {
+    width: 90%;
+    margin: 0 auto;
+  }
+}
+
+.website__link:hover { 
+  opacity: .8;
+} 

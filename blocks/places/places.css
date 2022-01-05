@@ -1,0 +1,27 @@
+.places {
+  display: flex;
+  flex-direction: column;
+  width: 76.875%;
+  margin: 7.1875% auto;
+}
+
+@media screen and (max-width: 1024px) {
+  .places {
+    width: 90.625%;
+    margin: 9% auto;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places {
+    width: 93.75%;
+    margin: 11.45% auto 11.71%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .places {
+    width: 100%;
+    margin: 64px auto 66px;
+  }  
+}
