@@ -1,4 +1,4 @@
-.website__url-heading {
+.place__url-heading {
   color: #aaa;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -8,14 +8,14 @@
 }
 
 @media screen and (max-width: 768px) {
-  .website__url-heading {
+  .place__url-heading {
     line-height: 100%;
     width: 100%;
   }
 }
 
 @media screen and (max-width: 500px) {
-  .website__url-heading {
+  .place__url-heading {
     margin-left: auto;
     margin-right: auto;
     width: 90%;

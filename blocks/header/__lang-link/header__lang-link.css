@@ -6,6 +6,7 @@
   line-height: 117%;
   opacity: 1;
   transition: .2s ease-out;
+  text-decoration: none;
 }
 
 .header__lang-link:last-child {
@@ -14,6 +15,7 @@
 
 @media screen and (max-width: 500px) {
   .header__lang-link {
+    font-size: 18px;
     line-height: 111%;
   }  
 }
