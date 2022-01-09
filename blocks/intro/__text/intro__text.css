@@ -1,10 +1,11 @@
 .intro__text {
   color: #fff;
   font-weight: normal;
-  max-width: calc(100% - 46.1%);
+  width: calc(100% - 46.1%);
   margin: 0 auto 34px 11.56%;
   font-size: 16px;
   line-height: 163%;
+  max-width: 690px;
 }
 
 @media screen and (max-width: 1024px) {
