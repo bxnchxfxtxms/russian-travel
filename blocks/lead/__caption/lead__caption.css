@@ -5,47 +5,47 @@
   line-height: 140%;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  margin: 8px auto 92px 11.56%;
+  margin: 8px auto 92px 11.56vw;
 }
 
 @media screen and (max-width: 1280px) {
   .lead__caption {
-    margin: 8px auto 92px 11.56%;
+    margin: 8px auto 92px 11.56vw;
   }
 }
 
 @media screen and (max-width: 1024px) {
   .lead__caption {
-    margin: 8px auto 92px 4.68%;
+    margin: 8px auto 92px 4.68vw;
   }
 }
 
 @media screen and (max-width: 1024px) {
   .lead__caption {
-    margin: 8px auto 92px 4.68%;
+    margin: 8px auto 92px 4.68vw;
   }
 }
 
 @media screen and (max-width: 768px) {
   .lead__caption {
-    margin: 8px auto 88px 3.125%;
+    margin: 8px auto 88px 3.125vw;
   }
 }
 
 @media screen and (max-width: 425px) {
   .lead__caption {
-    margin: 8px auto 64px 3.30%;
+    margin: 8px auto 64px 3.30vw;
   }
 }
 
 @media screen and (max-width: 375px) {
   .lead__caption {
-    margin: 8px auto 64px 3.73%;
+    margin: 8px auto 64px 3.73vw;
   }
 }
 
 @media screen and (max-width: 320px) {
   .lead__caption {
-    margin: 8px auto 64px 5%;
+    margin: 8px auto 64px 5vw;
   }
 }

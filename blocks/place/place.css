@@ -1,8 +1,8 @@
 .place {
   display: grid;
   grid-template-columns: fit-content(460px) fit-content(484px);
-  gap: 3.75vw 3.125vw;
-  margin-bottom: 6.25vw;
+  gap: 48px 40px;
+  margin-bottom: 80px;
 }
 
 @media screen and (max-width: 1024px) {
