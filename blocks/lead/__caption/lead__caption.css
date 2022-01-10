@@ -5,19 +5,7 @@
   line-height: 140%;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  margin: 8px auto 92px 11.56vw;
-}
-
-@media screen and (max-width: 1280px) {
-  .lead__caption {
-    margin: 8px auto 92px 11.56vw;
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  .lead__caption {
-    margin: 8px auto 92px 4.68vw;
-  }
+  margin: 8px auto 92px 0;
 }
 
 @media screen and (max-width: 1024px) {
